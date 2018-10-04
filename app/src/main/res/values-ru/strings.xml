@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CountDown</string>
+    <string name="countdown_label">До начала курса\n\"Разработка Android-приложений для Умного дома\"\nосталось:</string>
+    <string name="already_started">Курс уже начался</string>
+    <string name="switch_language">Switch language</string>
+    <string name="powered_by">Сделал @hackerzhenya</string>
+    <string name="vk">ВК</string>
+    <string name="github">GitHub</string>
+
+    <string name="day_1">день</string>
+    <string name="day_2">дня</string>
+    <string name="day_5">дней</string>
+
+    <string name="hour_1">час</string>
+    <string name="hour_2">часа</string>
+    <string name="hour_5">часов</string>
+
+    <string name="min_1">минута</string>
+    <string name="min_2">минуты</string>
+    <string name="min_5">минут</string>
+
+    <string name="sec_1">секунда</string>
+    <string name="sec_2">секунды</string>
+    <string name="sec_5">секунд</string>
+</resources>

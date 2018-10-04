@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CountDown</string>
+    <string name="countdown_label">To start of the course\n\"Developing Android Applications for the Smart Home\"\ntime remaining:</string>
+    <string name="already_started">The course has already begun</string>
+    <string name="switch_language">Switch language</string>
+    <string name="powered_by">Powered by @hackerzhenya</string>
+    <string name="vk">VK</string>
+    <string name="github">GitHub</string>
+
+    <string name="day_1">day</string>
+    <string name="day_2">days</string>
+    <string name="day_5">days</string>
+
+    <string name="hour_1">hour</string>
+    <string name="hour_2">hours</string>
+    <string name="hour_5">hours</string>
+
+    <string name="min_1">minute</string>
+    <string name="min_2">minutes</string>
+    <string name="min_5">minutes</string>
+
+    <string name="sec_1">second</string>
+    <string name="sec_2">seconds</string>
+    <string name="sec_5">seconds</string>
+</resources>
